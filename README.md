@@ -1,23 +1,16 @@
-# Flutter Projects
+# hello_flutter_profile
 
-This repository contains mobile applications built with **Flutter & Dart**
-As part of my journey into mobile development.
+A new Flutter project.
 
-## Purpose
-- Learn Flutter fundamentals
-- Build cross-platform mobile apps (Android & iOS)
-- Practice UI design, navigation, and state management
-- Prepare for backend integration with Django APIs
+## Getting Started
 
-## Tech Stack
-- Flutter
-- Dart
-- Material UI
+This project is a starting point for a Flutter application.
 
-## Projects
-- **Hello Flutter App** (Getting started)
-- **UI Practice App** (Layouts & widgets)
-- **Flutter + API App** (Coming soon)
+A few resources to get you started if this is your first Flutter project:
 
-Each project will have its own folder and README.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
